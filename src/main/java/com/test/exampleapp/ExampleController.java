@@ -14,7 +14,8 @@ public class ExampleController {
 
     @GetMapping
     public ResponseEntity<String> getMembers() {
-        return ResponseEntity.ok("Hi 20.10.2020");
+        return ResponseEntity.ok("Hi 03.07.2021");
     }
+
 
 }
